@@ -6,8 +6,8 @@
 #src-git targets https://github.com/openwrt/targets.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
-src-git OpenClash https://github.com/vernesong/OpenClash
-src-git small https://github.com/kenzok8/small
-src-git kenzo https://github.com/kenzok8/openwrt-packages
-src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
-src-git opentopd  https://github.com/sirpdboy/sirpdboy-package
+#src-git OpenClash https://github.com/vernesong/OpenClash
+#src-git small https://github.com/kenzok8/small
+#src-git kenzo https://github.com/kenzok8/openwrt-packages
+#src-git passwall2 https://github.com/xiaorouji/openwrt-passwall2
+3src-git opentopd  https://github.com/sirpdboy/sirpdboy-package
